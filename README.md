@@ -1,7 +1,10 @@
-# Getting Started with Create React App
+## Live demo : (https://recipestore-reactjs.web.app/)
+This is Reactjs application that provide you with the recipe that can be prepared from given ingredient.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/99359083/160604187-9e16c678-5d1a-4e7b-8bc9-bba56d89398d.png">
 
+Just type the ingredient in the search bo and tap enter
+it will give you all the recipe that can be prepared withthat ingredient
 ## Available Scripts
 
 In the project directory, you can run:
